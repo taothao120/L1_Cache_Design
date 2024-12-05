@@ -4,4 +4,4 @@
 > g++ .\main.cpp
 
 ***Step 2***: run file .exe with tracefile. For example
-> .\a.exe .\trace_file_01  
+> .\a.exe .\trace_file_01.txt
