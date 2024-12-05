@@ -1,4 +1,4 @@
-**!!! How to biuld simulate this project:**
+**!!! How to build simulate this project:**
 
 ***Step 1***: build main.cpp 
 > g++ .\main.cpp
